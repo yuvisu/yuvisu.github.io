@@ -18,4 +18,3 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
 end
-gem 'jekyll-scholar', group: :jekyll_plugins
