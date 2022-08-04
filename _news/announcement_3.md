@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2021-12-10
+date: 2022-3-3
 inline: true
 ---
 
-Our paper, entitled "A Continual Learning-Based Image Rating Framework for Infant Precious Moments Capturing", is accepted by the 37th ACM/SIGAPP Symposium On Applied Computing. 🥳🥳🥳
-
+Our paper, entitled "Snippet Policy Network for Multi-class Varied-length ECG Early Classification", is accepted by the IEEE Transactions on Knowledge and Data Engineering (SCI/EI 2021 IF=9.235).  🥳🥳🥳
