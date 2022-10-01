@@ -2,7 +2,7 @@
 layout: none
 title: Development of Advanced Time Series Machine Learning Core Techniques and Integrated Tools
 author: Yu Huang
-period: Dec. 2021 ~ present
+period: Dec. 2021 ~ Jul. 2022
 sponsor: Ministry of Science and Techonology, R.O.C.
 role: Researcher
 contributions: Proposal & Report Writing, Methodology Design, Data Curation, Methodology Implementation
