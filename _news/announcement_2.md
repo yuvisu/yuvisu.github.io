@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-1
+date: 2022-10-31
 inline: true
 ---
 
-Our paper, entitled "Periodic Attention-based Stacked Sequence to Sequence Framework for Long-term Travel Time Prediction", is accepted by the Knowledge-based Systems (SCI/EI 2021 IF = 8.139).  🥳🥳🥳
+Our paper, entitled "Continual Learning with Attentive Recurrent Neural Networks for Temporal Data Classification", is accepted by the Neural Networks (SCI/EI 2021 IF = 9.657).  🥳🥳🥳

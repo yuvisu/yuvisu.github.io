@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-31
+date: 2022-11-10
 inline: true
 ---
 
-Our paper, entitled "Continual Learning with Attentive Recurrent Neural Networks for Temporal Data Classification", is accepted by the Neural Networks (SCI/EI 2021 IF = 9.657).  🥳🥳🥳
+I am awarded with the [TAAI 2022 PhD Dissertation Award](https://www.taai.org.tw/) 👑👑👑

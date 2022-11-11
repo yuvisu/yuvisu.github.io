@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-3-3
+date: 2022-7-13
 inline: true
 ---
 
-Our paper, entitled "Snippet Policy Network for Multi-class Varied-length ECG Early Classification", is accepted by the IEEE Transactions on Knowledge and Data Engineering (SCI/EI 2021 IF = 9.235).  🥳🥳🥳
+Our paper, entitled "Snippet Policy Network V2: Knee-guided Neuroevolution for Multi-lead ECG Early Classification", is accepted by the IEEE Transactions on Neural Networks and Learning Systems (SCI/EI 2021 IF = 14.255).  🥳🥳🥳
