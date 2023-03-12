@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-31
+date: 2023-1-8
 inline: true
 ---
 
-Our paper, entitled "Continual Learning with Attentive Recurrent Neural Networks for Temporal Data Classification", is accepted by the Neural Networks (SCI/EI 2021 IF = 9.657).  🥳🥳🥳
+I am serving as Program Committee member for ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (ACM SIGKDD 2023).
