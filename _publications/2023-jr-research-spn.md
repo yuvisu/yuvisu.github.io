@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-jr-research-spn
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2022
+date: 2023
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9741533'
 
