@@ -9,38 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education / Training
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postdoc in Biomedical Informatics, University of Florida , 2024 (expected)
+* Ph.D in Computer Science, National Yang Ming Chiao Tung University , 2022
+* B.B.A. in Information Management, National Kaohsiung First University of Science and Technology, 2015
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dissertation Award
+  * 2022 IICM Ph.D. Dissertation Award, Institute of Information & Computing Machinery
+  * 2022 IEEE Ph.D. Dissertation Award, IEEE CIS Taipei Chapter
+  * 2022 TAAI Ph.D. Dissertation Award, Taiwanese Association for Artificial Intelligence 
+  * 2019 Best Student Paper Award Runner Up, Springer ADMA 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Award of Outstanding Students 
+  * 2021 National Yang Ming Chiao Tung University
+  * 2016 - 2020 National Chiao Tung University
+  * 2014 National Kaohsiung First University of Science and Technology
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Travelling Award 
+  * 2019, PAKDD 2019 & MCEA Joint Travel Grants, Macao Convention & Exhibition Association
+  * 2017, International Travelling Award of MOST, Ministry of Science and Technology, R.O.C
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +50,33 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Services
 ======
-* Currently signed in to 43 different slack teams
+* Journal Services
+  * IEEE Transactions on Artificial Intelligent (TAI)
+  * IEEE Transactions on Cybernetics (TCYB)
+  * IEEE Transactions on Evolutionary Computation (TEVC)
+  * IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+  * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+  * IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  * IEEE Computational Intelligence Magazine (CIM)
+  * IEEE Journal of Biomedical and Health Informatics (JBHI)
+  * IEEE Internet of Things Journal (IoT-J)
+  * ACM Transactions on Intelligent Systems and Technology (TIST)
+  * ACM Transactions on Knowledge Discovery from Data (TKDD)
+  * ACM Transactions on Management Information Systems (TMIS)
+  * Applied Intelligence
+  * Information Sciences
+  * Engineering Applications of Artificial Intelligence
+  * World Scientific Annual Review of Artificial Intelligence
+  * Journal of Clinical and Translational Science
+* Conference Services (PC Member)
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) [2022,2023,2024,2025]
+  * AAAI Conference on Artificial Intelligence (AAAI) [2022,2023,2024,2025]
+  * European Conference on Machine Learning and Principles and Practice of Knowledge
+Discovery in Databases (ECML PKDD) [2023,2024]
+  * International Conference on Advances in Social Networks Analysis and Mining [2024]
+(ASONAM)
+
+
