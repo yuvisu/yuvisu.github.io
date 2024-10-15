@@ -16,5 +16,6 @@ My Ph.D. dissertation is "A Study on Early Time Series Classification Methodolog
 News
 ======
 1. Our study entitled "A Fair Individualized Polysocial Risk Score for Identifying Increased Social Risk in Type 2 Diabetes", has been accepted for publication in Nature Communications. 
+1. Our study entitled "Graph Contrastive Learning as a Versatile Foundation for Advanced scRNA-seq Data Analysis", has been accepted for publication in Briefings in Bioinformatics. 
 1. I am serving as Program Committee member for SIGKDD 2025.
 1. I am serving as Program Committee member for AAAI 2025.

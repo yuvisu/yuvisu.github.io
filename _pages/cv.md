@@ -32,7 +32,7 @@ Awards
   * 2019, PAKDD 2019 & MCEA Joint Travel Grants, Macao Convention & Exhibition Association
   * 2017, International Travelling Award of MOST, Ministry of Science and Technology, R.O.C
   
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -43,13 +43,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Professional Services
 ======
 * Journal Services
