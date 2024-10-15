@@ -6,6 +6,7 @@ permalink: /publication/2022-jr-research-spnv2
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-07-11
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
+impact: '(SCI/EI 2021 IF = 14.255)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9825701'
 
 ---

@@ -6,6 +6,7 @@ permalink: /publication/2022-jr-research-spn
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-03-24
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
+impact: '(SCI/EI 2021 IF = 9.235)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9741533'
 
 ---

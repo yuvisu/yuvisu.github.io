@@ -35,7 +35,7 @@ Awards
 Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-pub-cv.html %}
   {% endfor %}</ul>
   
 Talks
