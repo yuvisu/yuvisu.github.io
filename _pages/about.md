@@ -15,9 +15,8 @@ My Ph.D. dissertation is "A Study on Early Time Series Classification Methodolog
 
 News
 ======
+1. I will start as a tenure-track assistant professor in the Department of Biostatistics and Health Data Science, Indiana University, on February 1st!
 1. Our AMIA 2024 paper “Assessing the Seasonality of Lab Tests Among Patients with Alzheimer's Disease and Related Dementias in OneFlorida Data Trust” won the third place of the 2024 KDDM Innovation Award! 
 1. Our study entitled "Towards a Computable Phenotype for Determining Eligibility of Lung Cancer Screening Using Electronic Health Records", has been accepted for publication in JCO Clinical Cancer Informatics. 
 1. Our study entitled "A Fair Individualized Polysocial Risk Score for Identifying Increased Social Risk in Type 2 Diabetes", has been accepted for publication in Nature Communications. 
 1. Our study entitled "Graph Contrastive Learning as a Versatile Foundation for Advanced scRNA-seq Data Analysis", has been accepted for publication in Briefings in Bioinformatics. 
-1. I am serving as Program Committee member for SIGKDD 2025.
-1. I am serving as Program Committee member for AAAI 2025.
