@@ -13,6 +13,8 @@ I received my Postdoc training in the Department of Health Outcomes & Biomedical
 
 News
 ======
+
+1. Our study entitled "Optimizing Strategy for Lung Cancer Screening: From Risk Prediction to Clinical Decision Support", has been accepted for publication in JCO Clinical Cancer Informatics.
 1. Our study entitled "Glycogen Drives Tumor Initiation and Progression in Lung Adenocarcinoma", has been accepted for publication in Nature Metabolism.
 1. I start as a tenure-track assistant professor in the Department of Biostatistics and Health Data Science, Indiana University, on February 1st!
 1. I start as an investigator in the Clem McDonald Center for Biomedical Informatics, Regenstrief Institute, on February 1st!
