@@ -24,11 +24,11 @@ author:
   avatar           : "prof_pic.jpg"
   name             : "Yu Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc Associate"
-  location         : "Gainesville, Florida"
-  employer         : "University of Florida"
+  bio              : "Assistant Professor"
+  location         : "Indianapolis, Indiana"
+  employer         : "Indiana University"
   uri              : # URL
-  email            : "huangyu@ufl.edu" 
+  email            : "yh60@iu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
