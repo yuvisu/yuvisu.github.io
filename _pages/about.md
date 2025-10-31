@@ -11,8 +11,6 @@ I am an Assistant Professor in the Department of Biostatistics and Health Data S
 
 I completed my postdoctoral training in the Department of Health Outcomes & Biomedical Informatics at the University of Florida, working with [Prof. Dr. Jiang Bian](https://hobi.med.ufl.edu/profile/bian-jiang/). I received my Ph.D. in Computer Science from National Yang Ming Chiao Tung University in 2022, co-advised by [Prof. Dr. Vincent S. Tseng](https://people.cs.nctu.edu.tw/~vtseng/) and [Prof. Dr. Gary G. Yen](https://isc.okstate.edu/). Previously, I earned my bachelor's degree from National Kaohsiung First University of Science and Technology. 
 
-## Publications
-
 ## News
 
 1. I will begin as an adjunct professor in the Weldon School of Biomedical Engineering at Purdue University on November 1.
