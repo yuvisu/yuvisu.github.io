@@ -11,12 +11,14 @@ redirect_from:
 
 Education / Training
 ======
-* Postdoc in Biomedical Informatics, University of Florida , 2024 (expected)
+* Postdoc in Biomedical Informatics, University of Florida, 2024
 * Ph.D in Computer Science, National Yang Ming Chiao Tung University , 2022
 * B.B.A. in Information Management, National Kaohsiung First University of Science and Technology, 2015
 
 Awards
 ======
+* 2025 US NAM Catalyst Award, National Academy of Medicine
+
 * Dissertation Award
   * 2022 IICM Ph.D. Dissertation Award, Institute of Information & Computing Machinery
   * 2022 IEEE Ph.D. Dissertation Award, IEEE CIS Taipei Chapter
