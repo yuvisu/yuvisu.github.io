@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yu Huang / BMI&AI"
 title_separator          : "-"
 name                     : &name "Yu Huang"
-description              : &description "personal description"
+description              : &description "Yu Huang - Assistant Professor at Indiana University School of Medicine. Research in AI-driven health outcomes modeling, fair machine learning, and health digital twins."
 url                      : https://yuvisu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuvisu/yuvisu.github.io"
@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7373-4716"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=yu+huang+indiana+university&sort=date"
+  researchgate     : "https://www.researchgate.net/profile/Yu-Huang-15"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yu-huang-b08b72107"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
