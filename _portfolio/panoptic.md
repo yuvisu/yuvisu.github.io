@@ -12,6 +12,7 @@ link: "http://54.65.246.49/"
 image: "images/projects/panoptic.jpg"
 date: 2026-04-11
 references:
+  - permalink: /publication/2025-jr-research-cerebra
   - permalink: /publication/2026-jr-research-adsubphenotype
   - permalink: /publication/2024-cf-adgnn
 ---
