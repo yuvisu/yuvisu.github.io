@@ -33,13 +33,21 @@
 
   &__thumbnail {
     width: 100%;
-    height: 120px;
+    height: 180px;
     background: mix(#fff, $border-color, 50%);
     border-radius: 8px;
     margin-bottom: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 8px;
+    }
 
     svg {
       width: 48px;

@@ -9,5 +9,6 @@ tags:
   - Dementia Risk Assessment
   - Retinal Imaging Analysis
 link: "http://54.65.246.49/"
+image: "images/projects/panoptic.jpg"
 date: 2026-04-11
 ---
