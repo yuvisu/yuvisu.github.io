@@ -108,6 +108,18 @@
     transform: translateX(4px);
   }
 
+  &__badge {
+    display: inline-block;
+    align-self: flex-end;
+    margin-top: 16px;
+    font-size: $type-size-7;
+    font-weight: 600;
+    padding: 4px 12px;
+    background: mix(#fff, $border-color, 20%);
+    color: mix(#fff, $text-color, 30%);
+    border-radius: 20px;
+  }
+
   &__references {
     margin-top: 16px;
     padding-top: 16px;
