@@ -1,0 +1,85 @@
+---
+layout: page
+title: Curriculum vitae
+slug: cv
+eyebrow: CV
+redirect_from:
+  - /resume
+  - /resume/
+  - /talks/
+  - /talks/2023-02-27-talk
+  - /talks/2023-06-24-talk
+  - /talks/2024-04-14-talk
+  - /talks/2024-09-06-talk
+  - /talks/2025-09-12-talk
+  - /teaching/
+---
+{%- assign cv = site.data.cv -%}
+{%- assign pdf = site.static_files | where: "path", site.cv_pdf | first -%}
+
+<div class="container cv">
+  <nav class="toc" aria-label="On this page">
+    <a href="#positions">Positions</a><a href="#education">Education</a><a href="#awards">Awards</a>
+    <a href="#talks">Talks</a><a href="#service">Service</a>
+    <a href="{{ '/research/#funding' | relative_url }}">Funding</a><a href="{{ '/publications/' | relative_url }}">Publications</a>
+    {%- if pdf %}<a class="btn btn-primary btn-sm" href="{{ site.cv_pdf | relative_url }}">{% include icon.html name="download" %} PDF</a>{% endif %}
+  </nav>
+
+  <section class="cv-section" id="positions">
+    <h2 class="sub">Positions</h2>
+    <ul class="rows">
+      {%- for x in cv.positions %}
+      <li class="row"><span class="row-when">{{ x.when }}</span><span><strong>{{ x.what }}</strong><br><span class="muted">{{ x.where }}</span></span></li>
+      {%- endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section" id="education">
+    <h2 class="sub">Education and training</h2>
+    <ul class="rows">
+      {%- for x in cv.education %}
+      <li class="row"><span class="row-when">{{ x.when }}</span><span><strong>{{ x.what }}</strong><br><span class="muted">{{ x.where }}</span>{% if x.note %}<br><span class="muted small">{{ x.note }}</span>{% endif %}</span></li>
+      {%- endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section" id="awards">
+    <h2 class="sub">Honors and awards</h2>
+    <ul class="rows">
+      {%- for x in cv.awards %}
+      <li class="row"><span class="row-when">{{ x.when }}</span><span><strong>{{ x.what }}</strong><br><span class="muted">{{ x.where }}</span></span></li>
+      {%- endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section" id="talks">
+    <h2 class="sub">Invited talks and courses</h2>
+    <ul class="rows">
+      {%- for x in cv.talks.invited %}
+      <li class="row"><span class="row-when">{{ x.when }}</span><span><strong>{{ x.what }}</strong><br><span class="muted">{{ x.where }}</span></span></li>
+      {%- endfor %}
+    </ul>
+    <h3 class="sub-sm">Contributed presentations</h3>
+    <ul class="rows">
+      {%- for x in cv.talks.contributed %}
+      <li class="row"><span class="row-when">{{ x.when }}</span><span>{{ x.what }}<br><span class="muted">{{ x.where }}</span></span></li>
+      {%- endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-section" id="service">
+    <h2 class="sub">Professional service</h2>
+    <h3 class="sub-sm">Editorial</h3>
+    <ul class="plain">{% for x in cv.service.editorial %}<li>{{ x }}</li>{% endfor %}</ul>
+    <h3 class="sub-sm">Conferences</h3>
+    <ul class="rows">
+      {%- for x in cv.service.conference %}
+      <li class="row"><span class="row-when">{{ x.when }}</span><span>{{ x.what }}</span></li>
+      {%- endfor %}
+    </ul>
+    <h3 class="sub-sm">Journal reviewer</h3>
+    <ul class="plain">{% for x in cv.service.journals %}<li><strong>{{ x.group }}:</strong> {{ x.list }}</li>{% endfor %}</ul>
+    <h3 class="sub-sm">Memberships</h3>
+    <ul class="plain">{% for x in cv.service.memberships %}<li>{{ x }}</li>{% endfor %}</ul>
+  </section>
+</div>

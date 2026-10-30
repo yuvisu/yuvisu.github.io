@@ -1,0 +1,44 @@
+# Newest first. The home page shows the first 6; the rest sit under "Earlier news".
+# text is Markdown, so [links](https://...) and *italics* work.
+
+- date: Sep 2026
+  text: Joined the NIH-funded AI-Powered Coordinating Center (AICC) for the NIA AITC Program on Aging and AD/ADRD Research as senior/key personnel.
+
+- date: Aug 2026
+  text: Presented *MedCausalAtlas*, which builds literature-derived causal DAGs for clinical evidence synthesis, at ACM SIGKDD 2026 in Jeju, Korea.
+
+- date: 2026
+  text: Selected as a semi-finalist in the Grand Prize Phase of the NAM Healthy Longevity Global Competition.
+
+- date: 2026
+  text: Welcomed postdoctoral associates Zhaohui Wang, Hao Xuan, and Haoran Ding.
+
+- date: 2026
+  text: Serving as chair of the Health Data Challenge (2026) and the Analytics Track (2027) at the IEEE Conference on Health Informatics.
+
+- date: 2026
+  text: "[Temporally Detailed Hypergraph Neural ODE for Disease Progression Modeling](https://arxiv.org/abs/2510.17211) was accepted at *ICLR 2026*."
+
+- date: 2026
+  text: "[Identifying Alzheimer's disease progression subphenotypes via a graph-based framework](https://link.springer.com/article/10.1007/s41666-026-00230-2) was published in *Journal of Healthcare Informatics Research*."
+
+- date: Nov 2025
+  text: Appointed adjunct professor in the [Weldon School of Biomedical Engineering](https://engineering.purdue.edu/BME) at Purdue University.
+
+- date: 2025
+  text: Received a [Catalyst Award](https://nam.edu/news-and-insights/2025-catalyst-awards-announcement/) in the NAM Healthy Longevity Global Competition.
+
+- date: 2025
+  text: Received pilot funding from IU Lab.
+
+- date: Feb 2025
+  text: Joined Indiana University as a tenure-track assistant professor in Biostatistics and Health Data Science, and the Regenstrief Institute as an investigator.
+
+- date: 2025
+  text: "[From Image to Report](https://www.sciencedirect.com/science/article/abs/pii/S1532046425001601), on automating lung cancer screening reports with vision-language models, was published in *Journal of Biomedical Informatics*."
+
+- date: 2025
+  text: "[Optimizing Strategy for Lung Cancer Screening](https://ascopubs.org/doi/10.1200/CCI-24-00291) was published in *JCO Clinical Cancer Informatics*."
+
+- date: 2024
+  text: "[A fair individualized polysocial risk score for identifying increased social risk in type 2 diabetes](https://www.nature.com/articles/s41467-024-52960-9) was published in *Nature Communications*."

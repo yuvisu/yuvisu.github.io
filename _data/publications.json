@@ -1,0 +1,3810 @@
+{
+ "counts": {
+  "journal": 37,
+  "conference": 19,
+  "abstract": 11,
+  "preprint": 7,
+  "total": 74
+ },
+ "items": [
+  {
+   "key": "wu2026repurpose",
+   "type": "journal",
+   "year": 2026,
+   "title": "Discovering repurposable drugs for Alzheimer's disease and related dementias: target trial emulation using decentralised real-world data",
+   "authors": [
+    {
+     "name": "Qiong Wu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yuqing Lei",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ting Zhou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Bingyu Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yiwen Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Maxwell Salvatore",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "David A. Wolk",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 26,
+   "first_or_senior": false,
+   "venue": "eBioMedicine",
+   "details": "132, 106466",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.ebiom.2026.106466"
+  },
+  {
+   "key": "yuce2026glp1",
+   "type": "journal",
+   "year": 2026,
+   "title": "Real-World Effectiveness and Safety of GLP-1 Receptor Agonists Among Patients With Weight Recurrence After Bariatric Surgery",
+   "authors": [
+    {
+     "name": "Tarik Yuce",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Rotana M. Radwan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Emma Holler",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 10,
+   "first_or_senior": false,
+   "venue": "Obesity",
+   "details": "34(10), 1860–1868",
+   "note": "",
+   "url": "https://doi.org/10.1002/oby.70280"
+  },
+  {
+   "key": "gou2026ipsrs",
+   "type": "journal",
+   "year": 2026,
+   "title": "Adaptation of a fair individualized polysocial risk score for hospitalization risk prediction",
+   "authors": [
+    {
+     "name": "Qinglin Gou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Hu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Megan E. Gregory",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jennifer H. LeLaurin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ramzi G. Salloum",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    }
+   ],
+   "n_authors": 9,
+   "first_or_senior": true,
+   "venue": "JAMIA Open",
+   "details": "9(4), ooag161",
+   "note": "",
+   "url": "https://doi.org/10.1093/jamiaopen/ooag161"
+  },
+  {
+   "key": "meng2026sexad",
+   "type": "journal",
+   "year": 2026,
+   "title": "Identifying sex-specific sub-phenotypes of Alzheimer's disease progression using longitudinal electronic health records",
+   "authors": [
+    {
+     "name": "Weimin Meng",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qiang Yang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jie Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Cankun Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qianqian Song",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lixin Song",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qin Ma",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Anjun Ma",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Rui Yin",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "eBioMedicine",
+   "details": "130, 106391",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.ebiom.2026.106391"
+  },
+  {
+   "key": "lee2026continuity",
+   "type": "journal",
+   "year": 2026,
+   "title": "Develop and validate a fair machine learning model to identify patients with high data-continuity in electronic health records data",
+   "authors": [
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tiange Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lizheng Shi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": false,
+   "venue": "JAMIA Open",
+   "details": "9(4), ooag124",
+   "note": "",
+   "url": "https://doi.org/10.1093/jamiaopen/ooag124"
+  },
+  {
+   "key": "yeh2026fairhf",
+   "type": "journal",
+   "year": 2026,
+   "title": "Build fair machine learning models to predict adverse outcomes for heart failure patients with preserved ejection fraction and with reduced ejection fraction",
+   "authors": [
+    {
+     "name": "YaYun Yeh",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "YaoAn Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Wenxi Huang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Stephen E. Kimmel",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Carl Yang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhe Jiang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tingsong Xiao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "JAMIA Open",
+   "details": "9(4), ooag136",
+   "note": "",
+   "url": "https://doi.org/10.1093/jamiaopen/ooag136"
+  },
+  {
+   "key": "hawkinson2026hyperglycosylation",
+   "type": "journal",
+   "year": 2026,
+   "title": "Hyperglycosylation is a metabolic driver of Alzheimer's disease",
+   "authors": [
+    {
+     "name": "Tara R. Hawkinson",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zizhen Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Roberto A. Ribas",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Terrymar Medina",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Rikke S. Nielsen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Harrison A. Clarke",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xin Ma",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Angela C. Mueller",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Ramon C. Sun",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 39,
+   "first_or_senior": false,
+   "venue": "Nature Metabolism",
+   "details": "8(6), 1410–1425",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "chen2026healthyaging",
+   "type": "journal",
+   "year": 2026,
+   "title": "Social determinants of healthy aging: An investigation using the All of Us cohort",
+   "authors": [
+    {
+     "name": "Wei-Han Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao-An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Chenyu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ying Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Rui Yin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Melissa J. Armstrong",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yang Yang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Gregor Štiglic",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 12,
+   "first_or_senior": false,
+   "venue": "PLOS ONE",
+   "details": "21(3), e0342292",
+   "note": "",
+   "url": "https://doi.org/10.1371/journal.pone.0342292"
+  },
+  {
+   "key": "huang2026graphad",
+   "type": "journal",
+   "year": 2026,
+   "title": "Identifying Alzheimer's Disease Progression Subphenotypes Via a Graph-based Framework Using Electronic Health Records",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jie Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhengkang Fan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Hu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Aokun Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yuxi Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Rui Yin",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 16,
+   "first_or_senior": true,
+   "venue": "Journal of Healthcare Informatics Research",
+   "details": "10(2), 317–339",
+   "note": "",
+   "url": "https://link.springer.com/article/10.1007/s41666-026-00230-2"
+  },
+  {
+   "key": "huang2026feasibility",
+   "type": "journal",
+   "year": 2026,
+   "title": "Feasibility of identifying factors related to Alzheimer's disease and related dementia in real-world data",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Qian Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Aokun Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yongqiu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu-Neng Chuang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xia Hu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Serena Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 13,
+   "first_or_senior": true,
+   "venue": "JAMIA Open",
+   "details": "9(2), ooag060",
+   "note": "",
+   "url": "https://doi.org/10.1093/jamiaopen/ooag060"
+  },
+  {
+   "key": "chen2026omop",
+   "type": "conference",
+   "year": 2026,
+   "title": "Agentic Authoring of OMOP Concept Sets from Natural Language",
+   "authors": [
+    {
+     "name": "Hongyu Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Mei Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": false,
+   "venue": "American Medical Informatics Association 2026 Annual Symposium",
+   "details": "",
+   "note": "Accepted. Preprint: medRxiv 2026.06.02.26354704",
+   "url": "https://doi.org/10.1101/2026.06.02.26354704"
+  },
+  {
+   "key": "muqeeth2026llmconsensus",
+   "type": "conference",
+   "year": 2026,
+   "title": "A Multi-Model LLM Consensus Framework to Identify EHR-Predictable Eligibility Criteria in NSCLC Immunotherapy Trials",
+   "authors": [
+    {
+     "name": "Abdul Muqeeth",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hao Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yan Zhuang",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": false,
+   "venue": "AMIA Joint Summits on Translational Science Proceedings",
+   "details": "2026, 333–342",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "xiao2026hypergraph",
+   "type": "conference",
+   "year": 2026,
+   "title": "Temporally Detailed Hypergraph Neural ODE for Disease Progression Modeling",
+   "authors": [
+    {
+     "name": "Tingsong Xiao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zelin Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yupu Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zibo Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhe Jiang",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 9,
+   "first_or_senior": false,
+   "venue": "The Fourteenth International Conference on Learning Representations (ICLR)",
+   "details": "",
+   "note": "",
+   "url": "https://arxiv.org/abs/2510.17211"
+  },
+  {
+   "key": "zhou2026lungrads",
+   "type": "conference",
+   "year": 2026,
+   "title": "Automating Lung-RADS Categorization and Follow-Up Recommendations Using In-Context Learning With Large Language Models",
+   "authors": [
+    {
+     "name": "Tiancheng Zhou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Aokun Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Hu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xiwei Lou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Bruno Hochhegger",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hiren Mehta",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Mattia Prosperi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "AMIA Annual Symposium Proceedings",
+   "details": "2025, 1567",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "he2026psrsehr",
+   "type": "conference",
+   "year": 2026,
+   "title": "Toward Integrating Machine Learning-powered Polysocial Risk Scores into Electronic Health Record Workflows",
+   "authors": [
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Yu Hu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michael Pappa",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Natacha Miller",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Megan E. Gregory",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Serena Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 8,
+   "first_or_senior": false,
+   "venue": "AMIA Annual Symposium Proceedings",
+   "details": "2025, 451",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "radwan2026pt37",
+   "type": "abstract",
+   "year": 2026,
+   "title": "PT37: Effectiveness and Safety of GLP-1 Receptor Agonists in Patients with Weight Recurrence after Bariatric Surgery: A Real-World Study",
+   "authors": [
+    {
+     "name": "Rotana M. Radwan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tarik Yuce",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Emma Holler",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 10,
+   "first_or_senior": false,
+   "venue": "Value in Health",
+   "details": "29(6), S61",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.jval.2026.03.295"
+  },
+  {
+   "key": "tang2026arm",
+   "type": "abstract",
+   "year": 2026,
+   "title": "Develop and Validate a Fair Machine Learning Model to Identify Patients with High Care-Continuity in Electronic Health Records Data",
+   "authors": [
+    {
+     "name": "Tiange Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lizheng Shi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao-An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": false,
+   "venue": "AcademyHealth 2026 Annual Research Meeting",
+   "details": "",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "huang2026breath",
+   "type": "abstract",
+   "year": 2026,
+   "title": "BREATH: Biomarkers of Respiratory Exacerbation in Asthmatic Children Through Sleep Health",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Arthur Owora",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Anuja Bandyopadhyay",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 4,
+   "first_or_senior": true,
+   "venue": "SLEEP",
+   "details": "49, A162–A163",
+   "note": "",
+   "url": "https://doi.org/10.1093/sleep/zsag091.0367"
+  },
+  {
+   "key": "huang2026mo1637",
+   "type": "abstract",
+   "year": 2026,
+   "title": "Mo1637: A Predictive Model for Early Anti-TNF Responder Identification in the COMBINE Pediatric Crohn's Disease Trial",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Xuguang Ai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michael Kappelman",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Brian DeBosch",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Steven Steiner",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 7,
+   "first_or_senior": true,
+   "venue": "Gastrointestinal Endoscopy",
+   "details": "103(5), S-1223",
+   "note": "",
+   "url": "https://doi.org/10.1016/s0016-5085(26)03076-3"
+  },
+  {
+   "key": "xuan2026corpusome",
+   "type": "preprint",
+   "year": 2026,
+   "title": "Corpusome, a cross-body-site human microbiome corpus for representation learning",
+   "authors": [
+    {
+     "name": "Hao Xuan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": false,
+   "venue": "bioRxiv 2026.08.28.747922",
+   "details": "",
+   "note": "",
+   "url": "https://doi.org/10.1101/2026.08.28.747922"
+  },
+  {
+   "key": "xuan2026scpyviewer",
+   "type": "preprint",
+   "year": 2026,
+   "title": "scPyviewer: a Python-native interactive viewer from AnnData single-cell data",
+   "authors": [
+    {
+     "name": "Hao Xuan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xiangtao Liu",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 4,
+   "first_or_senior": false,
+   "venue": "bioRxiv 2026.08.26.747418",
+   "details": "",
+   "note": "Under review at <em>Scientific Data</em>",
+   "url": "https://doi.org/10.1101/2026.08.26.747418"
+  },
+  {
+   "key": "xuan2026sensasp",
+   "type": "preprint",
+   "year": 2026,
+   "title": "SenSASP: A Unified, Multi-Layer Database of Senescence and SASP Genes",
+   "authors": [
+    {
+     "name": "Hao Xuan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": false,
+   "venue": "bioRxiv 2026.08.26.747427",
+   "details": "",
+   "note": "Under review at <em>Scientific Data</em>",
+   "url": "https://doi.org/10.1101/2026.08.26.747427"
+  },
+  {
+   "key": "chang2026ophmae",
+   "type": "preprint",
+   "year": 2026,
+   "title": "OphMAE: Bridging Volumetric and Planar Imaging with a Foundation Model for Adaptive Ophthalmological Diagnosis",
+   "authors": [
+    {
+     "name": "Tienyu Chang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhen Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Renjie Liang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jinyu Ding",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jie Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Sunu Mathew",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Amir Reza Hajrasouliha",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Andrew J. Saykin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ruogu Fang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qingyu Chen",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 12,
+   "first_or_senior": false,
+   "venue": "arXiv preprint arXiv:2605.02714",
+   "details": "",
+   "note": "",
+   "url": "https://arxiv.org/abs/2605.02714"
+  },
+  {
+   "key": "chang2026sail",
+   "type": "preprint",
+   "year": 2026,
+   "title": "SAIL: Structure-Aware Interpretable Learning for Anatomy-Aligned Post-hoc Explanations in OCT",
+   "authors": [
+    {
+     "name": "Tienyu Chang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tianhao Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ruogu Fang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": true,
+   "venue": "arXiv preprint arXiv:2605.02707",
+   "details": "",
+   "note": "",
+   "url": "https://arxiv.org/abs/2605.02707"
+  },
+  {
+   "key": "liu2026cerebra",
+   "type": "preprint",
+   "year": 2026,
+   "title": "Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment",
+   "authors": [
+    {
+     "name": "Sheng Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Long Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zeyun Zhao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qinglin Gou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qingyue Wei",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Arjun Masurkar",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Kevin M. Spiegler",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Philip Kuball",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "James Zou",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 19,
+   "first_or_senior": false,
+   "venue": "arXiv preprint arXiv:2603.21597",
+   "details": "",
+   "note": "",
+   "url": "https://arxiv.org/abs/2603.21597"
+  },
+  {
+   "key": "chang2025image2report",
+   "type": "journal",
+   "year": 2025,
+   "title": "From Image to Report: Automating Lung Cancer Screening Interpretation and Reporting with Vision-Language Models",
+   "authors": [
+    {
+     "name": "Tien-Yu Chang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Qinglin Gou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Leyi Zhao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tiancheng Zhou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hongyu Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Dong Yang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Huiwen Ju",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Kaleb E. Smith",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Aokun Chen",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 17,
+   "first_or_senior": false,
+   "venue": "Journal of Biomedical Informatics",
+   "details": "171, 104931",
+   "note": "",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S1532046425001601"
+  },
+  {
+   "key": "li2025sleflares",
+   "type": "journal",
+   "year": 2025,
+   "title": "A fair machine learning model to predict flares of systemic lupus erythematosus",
+   "authors": [
+    {
+     "name": "Yongqiu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lixia Yao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Peter A. Merkel",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ernest Vina",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ya-Yun Yeh",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yujia Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "John M. Allen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "JAMIA Open",
+   "details": "8(4), ooaf072",
+   "note": "",
+   "url": "https://doi.org/10.1093/jamiaopen/ooaf072"
+  },
+  {
+   "key": "dai2025vtdn",
+   "type": "journal",
+   "year": 2025,
+   "title": "Variational temporal deconfounder network for individualized treatment effect estimation with longitudinal observational data",
+   "authors": [
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Yuxi Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Mattia Prosperi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 7,
+   "first_or_senior": false,
+   "venue": "Journal of Biomedical Informatics",
+   "details": "104880",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.jbi.2025.104880"
+  },
+  {
+   "key": "wu2025colaglm",
+   "type": "journal",
+   "year": 2025,
+   "title": "COLA-GLM: collaborative one-shot and lossless algorithms of generalized linear models for decentralized observational healthcare data",
+   "authors": [
+    {
+     "name": "Qiong Wu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jenna M. Reps",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Bingyu Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yiwen Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiayi Tong",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Dazheng Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Thomas Lumley",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yong Chen",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 27,
+   "first_or_senior": false,
+   "venue": "npj Digital Medicine",
+   "details": "8(1), 442",
+   "note": "",
+   "url": "https://doi.org/10.1038/s41746-025-01781-1"
+  },
+  {
+   "key": "radwan2025sglt2",
+   "type": "journal",
+   "year": 2025,
+   "title": "Heterogeneous effects of sodium-glucose cotransporter-2 inhibitors compared to dipeptidyl peptidase-4 inhibitors on nephrolithiasis in older adults with type 2 diabetes",
+   "authors": [
+    {
+     "name": "Rotana M. Radwan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Wenxi Huang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yujia Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hui Shao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yongkang Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vivian Fonseca",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lizheng Shi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Desmond Schatz",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 12,
+   "first_or_senior": false,
+   "venue": "Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy",
+   "details": "45(7), 426–434",
+   "note": "",
+   "url": "https://doi.org/10.1002/phar.70030"
+  },
+  {
+   "key": "chen2025carecoord",
+   "type": "journal",
+   "year": 2025,
+   "title": "Care coordination and patient safety outcome: a graph-based approach",
+   "authors": [
+    {
+     "name": "Hongyu Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Changyu Yin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ronald L. Ison",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Liliana L. Bell",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Raymond A. Opoku",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhe Jiang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Serena Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Mei Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Patrick J. Tighe",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 12,
+   "first_or_senior": true,
+   "venue": "npj Health Systems",
+   "details": "2(1), 15",
+   "note": "",
+   "url": "https://doi.org/10.1038/s44401-025-00020-9"
+  },
+  {
+   "key": "dai2025lungscreen",
+   "type": "journal",
+   "year": 2025,
+   "title": "Optimizing Strategy for Lung Cancer Screening: From Risk Prediction to Clinical Decision Support",
+   "authors": [
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tiancheng Zhou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yuxi Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xuhong Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 9,
+   "first_or_senior": true,
+   "venue": "JCO Clinical Cancer Informatics",
+   "details": "9, e2400291",
+   "note": "",
+   "url": "https://ascopubs.org/doi/10.1200/CCI-24-00291"
+  },
+  {
+   "key": "zhou2025adsubphenotype",
+   "type": "journal",
+   "year": 2025,
+   "title": "Identifying progression subphenotypes of Alzheimer's disease from large-scale electronic health records with machine learning",
+   "authors": [
+    {
+     "name": "Manqi Zhou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Alice S. Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hao Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhenxing Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Alison M. C. Ke",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Chang Su",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "William G. Mantyh",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Fei Wang",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 16,
+   "first_or_senior": false,
+   "venue": "Journal of Biomedical Informatics",
+   "details": "165, 104820",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.jbi.2025.104820"
+  },
+  {
+   "key": "clarke2025glycogen",
+   "type": "journal",
+   "year": 2025,
+   "title": "Glycogen drives tumour initiation and progression in lung adenocarcinoma",
+   "authors": [
+    {
+     "name": "Harrison A. Clarke",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tara R. Hawkinson",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Cameron J. Shedlock",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Terrymar Medina",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Roberto A. Ribas",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lei Wu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zizhen Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xin Ma",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Ramon C. Sun",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 31,
+   "first_or_senior": false,
+   "venue": "Nature Metabolism",
+   "details": "7(5), 952–965",
+   "note": "",
+   "url": "https://doi.org/10.1038/s42255-025-01243-8"
+  },
+  {
+   "key": "zhou2025pesticide",
+   "type": "journal",
+   "year": 2025,
+   "title": "Content hubs, information flows, and reactions for pesticide-related discussions on Twitter/X",
+   "authors": [
+    {
+     "name": "Tiancheng Zhou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Raghavendhran Avanasi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Richard A. Brain",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Mattia Prosperi",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": true,
+   "venue": "Integrated Environmental Assessment and Management",
+   "details": "21(3), 628–638",
+   "note": "",
+   "url": "https://doi.org/10.1093/inteam/vjaf032"
+  },
+  {
+   "key": "yang2025lcsphenotype",
+   "type": "journal",
+   "year": 2025,
+   "title": "Toward a computable phenotype for determining eligibility of lung cancer screening using electronic health records",
+   "authors": [
+    {
+     "name": "Shuang Yang",
+     "me": false,
+     "star": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Xiwei Lou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tianchen Lyu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ruoqi Wei",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hiren J. Mehta",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yonghui Wu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michelle Alvarado",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 14,
+   "first_or_senior": true,
+   "venue": "JCO Clinical Cancer Informatics",
+   "details": "9, e2400139",
+   "note": "",
+   "url": "https://doi.org/10.1200/cci.24.00139"
+  },
+  {
+   "key": "chen2025medinfo",
+   "type": "conference",
+   "year": 2025,
+   "title": "Clinical Trial Eligibility Criteria Decomposition and Parsing with Large Language Models",
+   "authors": [
+    {
+     "name": "Hongyu Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lingfei Qian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Aokun Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Qinglin Gou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yuxuan Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yan Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 14,
+   "first_or_senior": false,
+   "venue": "MedInfo 2025 – Healthcare Smart × Medicine Deep: Proceedings of the 20th World Congress on Medical and Health Informatics",
+   "details": "688–692",
+   "note": "",
+   "url": "https://doi.org/10.3233/shti250928"
+  },
+  {
+   "key": "li2025asd",
+   "type": "conference",
+   "year": 2025,
+   "title": "Machine Learning Prediction of Autism Spectrum Disorder Diagnosis Through Linking Mothers' and Children's Electronic Health Records",
+   "authors": [
+    {
+     "name": "Yongqiu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Shuang Yang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Elahe M. Shychuk",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Elizabeth A. Shenkman",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Amber M. Angell",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 8,
+   "first_or_senior": false,
+   "venue": "2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)",
+   "details": "11–17",
+   "note": "",
+   "url": "https://doi.org/10.1109/ichi64645.2025.00010"
+  },
+  {
+   "key": "chen2025ada399p",
+   "type": "abstract",
+   "year": 2025,
+   "title": "399-P: Towards a Digital Twin Model for Predicting Renal Function Decline in Type 2 Diabetes Using Longitudinal Electronic Health Records",
+   "authors": [
+    {
+     "name": "Hongyu Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Leyang Sun",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Aokun Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": false,
+   "venue": "Diabetes",
+   "details": "74(Supplement 1), 399-P",
+   "note": "",
+   "url": "https://doi.org/10.2337/db25-399-p"
+  },
+  {
+   "key": "lee2025obesitysubphenotypes",
+   "type": "preprint",
+   "year": 2025,
+   "title": "Characterize disease progression subphenotypes in real world populations with overweight and obesity using a graph-based neural network framework",
+   "authors": [
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tarik K. Yuce",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Viral Shah",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 7,
+   "first_or_senior": false,
+   "venue": "medRxiv preprint",
+   "details": "",
+   "note": "",
+   "url": "https://doi.org/10.1101/2025.11.10.25339913"
+  },
+  {
+   "key": "tang2024glp1parkinson",
+   "type": "journal",
+   "year": 2024,
+   "title": "Glucagon-Like Peptide-1 Receptor Agonists and Risk of Parkinson's Disease in Patients With Type 2 Diabetes: A Population-Based Cohort Study",
+   "authors": [
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ying Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michael S. Okun",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Adolfo Ramirez-Zamora",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Fei Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Melissa Armstrong",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 13,
+   "first_or_senior": false,
+   "venue": "Movement Disorders",
+   "details": "39(11), 1960–1970",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "zhang2024scrnaseq",
+   "type": "journal",
+   "year": 2024,
+   "title": "Graph Contrastive Learning as a Versatile Foundation for Advanced scRNA-seq Data Analysis",
+   "authors": [
+    {
+     "name": "Zhenhao Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yuxi Liu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Meichen Xiao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Kun Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ruolin Yang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Fuyi Li",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 8,
+   "first_or_senior": false,
+   "venue": "Briefings in Bioinformatics",
+   "details": "25(6), bbae558",
+   "note": "",
+   "url": "https://doi.org/10.1093/bib/bbae558"
+  },
+  {
+   "key": "huang2024ipsrs",
+   "type": "journal",
+   "year": 2024,
+   "title": "A fair individualized polysocial risk score for identifying increased social risk in type 2 diabetes",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yao An Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhengkang Fan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ying Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Wei-Han Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 13,
+   "first_or_senior": true,
+   "venue": "Nature Communications",
+   "details": "15(1), 8653",
+   "note": "",
+   "url": "https://www.nature.com/articles/s41467-024-52960-9"
+  },
+  {
+   "key": "tang2024sglt2dementia",
+   "type": "journal",
+   "year": 2024,
+   "title": "Heterogeneous treatment effects of sodium-glucose cotransporter 2 inhibitors on risk of dementia in people with type 2 diabetes: a population-based cohort study",
+   "authors": [
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Mikael Svensson",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "C. Elizabeth Shaaban",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Glenn Smith",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michael S. Jaffee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Xia Hu",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 13,
+   "first_or_senior": false,
+   "venue": "Alzheimer's & Dementia",
+   "details": "20(8), 5528–5539",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "chao2024anomaly",
+   "type": "journal",
+   "year": 2024,
+   "title": "Early Time Series Anomaly Prediction with Multi-Objective Optimization",
+   "authors": [
+    {
+     "name": "Ting-En Chao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Gary G. Yen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": false,
+   "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+   "details": "9(1), 972–987",
+   "note": "",
+   "url": "https://doi.org/10.1109/tetci.2024.3423472"
+  },
+  {
+   "key": "he2024adphenotype",
+   "type": "journal",
+   "year": 2024,
+   "title": "Develop and validate a computable phenotype for the identification of Alzheimer's disease patients using electronic health record data",
+   "authors": [
+    {
+     "name": "Xing He",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ruoqi Wei",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Zhaoyi Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tianchen Lyu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Sarah Bost",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiayi Tong",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lu Li",
+     "me": false,
+     "star": false
+    },
+    {
+     "gap": true
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 21,
+   "first_or_senior": false,
+   "venue": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+   "details": "16(3), e12613",
+   "note": "",
+   "url": "https://doi.org/10.1002/dad2.12613"
+  },
+  {
+   "key": "huang2024fairml",
+   "type": "journal",
+   "year": 2024,
+   "title": "A scoping review of fair machine learning techniques when using real-world data",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Wei-Han Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hsin-Yueh Lin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Fei Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hua Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 8,
+   "first_or_senior": true,
+   "venue": "Journal of Biomedical Informatics",
+   "details": "151, 104622",
+   "note": "",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1532046424000406"
+  },
+  {
+   "key": "han2024seasonality",
+   "type": "conference",
+   "year": 2024,
+   "title": "Assessing the Seasonality of Lab Tests Among Patients with Alzheimer's Disease and Related Dementias in OneFlorida Data Trust",
+   "authors": [
+    {
+     "name": "Wenshan Han",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Balu Bhasuran",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Victorine Patricia Muse",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Søren Brunak",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Lifeng Lin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Karim Hanna",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhe He",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 9,
+   "first_or_senior": false,
+   "venue": "AMIA Annual Symposium Proceedings",
+   "details": "2024, 483",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "xu2023mciad",
+   "type": "conference",
+   "year": 2024,
+   "title": "Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer's Disease Using Electronic Health Records",
+   "authors": [
+    {
+     "name": "Jie Xu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Rui Yin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Hannah Gao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yonghui Wu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Glenn E. Smith",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Steven T. DeKosky",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Fei Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yi Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "AMIA Annual Symposium Proceedings",
+   "details": "2023, 764",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "huang2024ada1067p",
+   "type": "abstract",
+   "year": 2024,
+   "title": "1067-P: Neural Network to Identifying Type 2 Diabetes (T2D) Progression Subphenotypes",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Zhengkang Fan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": true,
+   "venue": "Diabetes",
+   "details": "73(Supplement 1), 1067-P",
+   "note": "",
+   "url": "https://diabetesjournals.org/diabetes/article/73/Supplement_1/1067-P/155290"
+  },
+  {
+   "key": "tang2024ada750p",
+   "type": "abstract",
+   "year": 2024,
+   "title": "750-P: Association of Glucagon-Like Peptide 1 Receptor Agonists with Incident Parkinson's Disease in US Older Adults with Type 2 Diabetes",
+   "authors": [
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ying Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michael S. Okun",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Adolfo Ramirez-Zamora",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Melissa J. Armstrong",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Mikael Svensson",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Beth Virnig",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "Diabetes",
+   "details": "73(Supplement 1), 750-P",
+   "note": "",
+   "url": "https://doi.org/10.2337/db24-750-p"
+  },
+  {
+   "key": "stolow2024ep113",
+   "type": "abstract",
+   "year": 2024,
+   "title": "EP113: A Systematic, Automated Approach to Re-Engaging Our Highest-Acuity IBD Clinic Patients",
+   "authors": [
+    {
+     "name": "Eugene Stolow",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Angela K. Pham",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Alyssa Saxton",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yang Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": false,
+   "venue": "Gastroenterology",
+   "details": "166(5), S-1533",
+   "note": "",
+   "url": "https://doi.org/10.1016/s0016-5085(24)03971-4"
+  },
+  {
+   "key": "tang2023parkinson",
+   "type": "journal",
+   "year": 2023,
+   "title": "Meta-Analysis of Association between Newer Glucose-Lowering Drugs and Risk of Parkinson's Disease",
+   "authors": [
+    {
+     "name": "Huilin Tang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ying Lu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Michael S. Okun",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Adolfo Ramirez-Zamora",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Fei Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Wei-Han Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Beth A. Virnig",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "Movement Disorders Clinical Practice",
+   "details": "10, 1659–1665",
+   "note": "",
+   "url": "https://doi.org/10.1002/mdc3.13893"
+  },
+  {
+   "key": "yin2023continual",
+   "type": "journal",
+   "year": 2023,
+   "title": "Continual Learning with Attentive Recurrent Neural Networks for Temporal Data Classification",
+   "authors": [
+    {
+     "name": "Shao-Yu Yin",
+     "me": false,
+     "star": true
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Tien-Yu Chang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Shih-Fang Chang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": true,
+   "venue": "Neural Networks",
+   "details": "158, 171–187",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.neunet.2022.10.031"
+  },
+  {
+   "key": "yin2023teamnetworks",
+   "type": "conference",
+   "year": 2023,
+   "title": "Clinical Team Networks on the Day of Surgery are Associated with Prolonged Postoperative Length of Stay in Older Adults receiving Hip Hemiarthroplasty",
+   "authors": [
+    {
+     "name": "Changyu Yin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Zheng Feng",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ron Ison",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Liliana Bell",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Rulman Pebe",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Roy Williams",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ray Opoku",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Eric Rosenberg",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Patrick Tighe",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 11,
+   "first_or_senior": false,
+   "venue": "Architecture of High Value Health Care National Conference 2023",
+   "details": "",
+   "note": "Oral presentation",
+   "url": null
+  },
+  {
+   "key": "huang2023acrsle",
+   "type": "abstract",
+   "year": 2023,
+   "title": "An Electronic Health Record-Based Algorithm for Predicting Systemic Lupus Erythematosus Flares: Integrating Clinical Factors and Social Determinants of Health",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Lixia Yao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Zhengkang Fan",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": true,
+   "venue": "Arthritis & Rheumatology",
+   "details": "75, 4602–4603",
+   "note": "",
+   "url": null
+  },
+  {
+   "key": "huang2023ada166or",
+   "type": "abstract",
+   "year": 2023,
+   "title": "166-OR: Developing a Fair Individualized Polysocial Risk Score (iPsRS) for Identifying Increased Social Risk of Hospitalizations in Patients with Type 2 Diabetes (T2D)",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Tianxiao Zhang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Elizabeth Shenkman",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 6,
+   "first_or_senior": true,
+   "venue": "Diabetes",
+   "details": "72(Supplement 1), 166-OR",
+   "note": "",
+   "url": "https://doi.org/10.2337/db23-166-or"
+  },
+  {
+   "key": "chen2023ada1320p",
+   "type": "abstract",
+   "year": 2023,
+   "title": "1320-P: Causal Mediators of Underlying Socioeconomic Status Disparities in Hospitalization Risk among Patients with Type 2 Diabetes (T2D)",
+   "authors": [
+    {
+     "name": "Wei-Han Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "William T. Donahoo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jiang Bian",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Jingchuan Guo",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": false,
+   "venue": "Diabetes",
+   "details": "72(Supplement 1), 1320-P",
+   "note": "",
+   "url": "https://doi.org/10.2337/db23-1320-p"
+  },
+  {
+   "key": "huang2022traveltime",
+   "type": "journal",
+   "year": 2022,
+   "title": "Periodic Attention-based Stacked Sequence to Sequence Framework for Long-term Travel Time Prediction",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": true
+    },
+    {
+     "name": "Hao Dai",
+     "me": false,
+     "star": true
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "Knowledge-Based Systems",
+   "details": "258, 109976",
+   "note": "",
+   "url": "https://doi.org/10.1016/j.knosys.2022.109976"
+  },
+  {
+   "key": "huang2022kneeecg",
+   "type": "journal",
+   "year": 2022,
+   "title": "A Novel Constraint-based Knee-guided Neuroevolutionary Algorithm for Context-specific ECG Early Classification",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Gary G. Yen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "IEEE Journal of Biomedical and Health Informatics",
+   "details": "26(11), 5394–5405",
+   "note": "",
+   "url": "https://ieeexplore.ieee.org/abstract/document/9858612"
+  },
+  {
+   "key": "huang2022spnv2",
+   "type": "journal",
+   "year": 2022,
+   "title": "Snippet Policy Network V2: Knee-guided Neuroevolution for Multi-lead ECG Early Classification",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Gary G. Yen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+   "details": "35(2), 2167–2181",
+   "note": "",
+   "url": "https://ieeexplore.ieee.org/abstract/document/9825701"
+  },
+  {
+   "key": "huang2022spn",
+   "type": "journal",
+   "year": 2022,
+   "title": "Snippet Policy Network for Multi-class Varied-length ECG Early Classification",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Gary G. Yen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "IEEE Transactions on Knowledge and Data Engineering",
+   "details": "35(6), 6349–6361",
+   "note": "",
+   "url": "https://ieeexplore.ieee.org/abstract/document/9741533"
+  },
+  {
+   "key": "huang2022ipremom",
+   "type": "conference",
+   "year": 2022,
+   "title": "IPreMom: A Continual Learning-Based Image Rating Framework for Infant Precious Moments Capturing",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Ju-Hui Tseng",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ching-Jui Hsiao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Hui-Mei Hung",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": true,
+   "venue": "Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing",
+   "details": "1382–1390",
+   "note": "",
+   "url": "https://doi.org/10.1145/3477314.3507117"
+  },
+  {
+   "key": "huang2021airquality",
+   "type": "journal",
+   "year": 2021,
+   "title": "Spatio-Attention Embedded Recurrent Neural Network for Air Quality Prediction",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Josh Jia-Ching Ying",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "Knowledge-Based Systems",
+   "details": "233, 107416",
+   "note": "",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S095070512100678X"
+  },
+  {
+   "key": "huang2021prenatal",
+   "type": "journal",
+   "year": 2021,
+   "title": "Prenatal exposure to air pollutants and childhood atopic dermatitis and allergic rhinitis adopting machine learning approaches: 14-year follow-up birth cohort study",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Hui-Ju Wen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yue-Liang Leon Guo",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Tzu-Yin Wei",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Wei-Cheng Wang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Shin-Fen Tsai",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Shu-Li Julie Wang",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 8,
+   "first_or_senior": true,
+   "venue": "Science of the Total Environment",
+   "details": "777, 145982",
+   "note": "",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0048969721010494"
+  },
+  {
+   "key": "hackman2021stable",
+   "type": "conference",
+   "year": 2021,
+   "title": "Stable High Utility Itemset Mining",
+   "authors": [
+    {
+     "name": "Acquah Hackman",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Philippe Fournier-Viger",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 4,
+   "first_or_senior": false,
+   "venue": "Proceedings of the 23rd International Conference on Information Integration and Web-based Applications & Services",
+   "details": "300–306",
+   "note": "",
+   "url": "https://doi.org/10.1145/3487664.3487704"
+  },
+  {
+   "key": "huang2020routeplanning",
+   "type": "journal",
+   "year": 2020,
+   "title": "Dynamic Graph Mining for Multi-weight Multi-destination Route Planning with Deadlines Constraints",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Josh Jia-Ching Ying",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Philip S. Yu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 4,
+   "first_or_senior": true,
+   "venue": "ACM Transactions on Knowledge Discovery from Data",
+   "details": "15(1), 1–32",
+   "note": "",
+   "url": "https://doi.org/10.1145/3412363"
+  },
+  {
+   "key": "huang2020purl",
+   "type": "conference",
+   "year": 2020,
+   "title": "PURL: Periodic User Representation Learning from Temporal Event Records for Personalized Health Management",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Chih-Ling Hsu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "2020 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+   "details": "358–365",
+   "note": "",
+   "url": "https://doi.org/10.1109/bigcomp48618.2020.00-49"
+  },
+  {
+   "key": "hackman2019emerging",
+   "type": "conference",
+   "year": 2019,
+   "title": "Mining Emerging High Utility Itemsets over Streaming Database",
+   "authors": [
+    {
+     "name": "Acquah Hackman",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Philip S. Yu",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 4,
+   "first_or_senior": false,
+   "venue": "International Conference on Advanced Data Mining and Applications (ADMA)",
+   "details": "3–16",
+   "note": "",
+   "url": "https://doi.org/10.1007/978-3-030-35231-8_1"
+  },
+  {
+   "key": "lee2019deepidentifier",
+   "type": "conference",
+   "year": 2019,
+   "title": "DeepIdentifier: A Deep Learning-Based Lightweight Approach for User Identity Recognition",
+   "authors": [
+    {
+     "name": "Meng-Chieh Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Josh Jia-Ching Ying",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Chien Chen",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": false,
+   "venue": "International Conference on Advanced Data Mining and Applications (ADMA)",
+   "details": "389–405",
+   "note": "",
+   "url": "https://doi.org/10.1007/978-3-030-35231-8_28"
+  },
+  {
+   "key": "huang2019bsn",
+   "type": "conference",
+   "year": 2019,
+   "title": "Robust Sensor-based Human Activity Recognition with Snippet Consensus Neural Networks",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Meng-Chieh Lee",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Ching-Jui Hsiao",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Chi-Chiang Huang",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 5,
+   "first_or_senior": true,
+   "venue": "2019 IEEE 16th International Conference on Wearable and Implantable Body Sensor Networks (BSN)",
+   "details": "1–4",
+   "note": "",
+   "url": "https://doi.org/10.1109/bsn.2019.8771073"
+  },
+  {
+   "key": "chou2019traffic",
+   "type": "conference",
+   "year": 2019,
+   "title": "Long-term Traffic Time Prediction using Deep Learning with Integration of Weather Effect",
+   "authors": [
+    {
+     "name": "Chih Hsin Chou",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Chian Yun Huang",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 4,
+   "first_or_senior": false,
+   "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)",
+   "details": "123–135",
+   "note": "",
+   "url": "https://doi.org/10.1007/978-3-030-16145-3_10"
+  },
+  {
+   "key": "hackman2018trending",
+   "type": "conference",
+   "year": 2018,
+   "title": "Mining Trending High Utility Itemsets from Temporal Transaction Databases",
+   "authors": [
+    {
+     "name": "Acquah Hackman",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": false,
+   "venue": "International Conference on Database and Expert Systems Applications (DEXA)",
+   "details": "461–470",
+   "note": "",
+   "url": "https://doi.org/10.1007/978-3-319-98812-2_42"
+  },
+  {
+   "key": "huang2017mdm",
+   "type": "conference",
+   "year": 2017,
+   "title": "Efficient Multi-destinations Route Planning with Deadlines and Cost Constraints",
+   "authors": [
+    {
+     "name": "Yu Huang",
+     "me": true,
+     "star": false
+    },
+    {
+     "name": "Bo-Hau Lin",
+     "me": false,
+     "star": false
+    },
+    {
+     "name": "Vincent S. Tseng",
+     "me": false,
+     "star": false
+    }
+   ],
+   "n_authors": 3,
+   "first_or_senior": true,
+   "venue": "2017 18th IEEE International Conference on Mobile Data Management (MDM)",
+   "details": "228–233",
+   "note": "",
+   "url": "https://doi.org/10.1109/mdm.2017.38"
+  }
+ ]
+}

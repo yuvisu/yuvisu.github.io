@@ -1,0 +1,67 @@
+# CV sections shown on /cv/, from the YUCV LaTeX source (sections/*.tex).
+
+positions:
+  - {when: "2025–present", what: Tenure-track Assistant Professor, where: "Department of Biostatistics and Health Data Science, Indiana University School of Medicine"}
+  - {when: "2025–present", what: Adjunct Professor, where: "Weldon School of Biomedical Engineering, Purdue University"}
+  - {when: "2025–present", what: Investigator, where: "Clem McDonald Center for Biomedical Informatics, Regenstrief Institute"}
+
+education:
+  - when: "2025"
+    what: Postdoctoral Associate
+    where: Department of Health Outcomes and Biomedical Informatics, University of Florida
+    note: "Mentor: Dr. Jiang Bian"
+  - when: "2022"
+    what: Ph.D., Computer Science
+    where: National Yang Ming Chiao Tung University, Taiwan
+    note: "Advisor: Dr. Vincent S. Tseng · Co-advisor: Dr. Gary G. Yen (Oklahoma State University)"
+  - when: "2015"
+    what: B.B.A., Information Management
+    where: National Kaohsiung First University of Science and Technology, Taiwan
+    note: "Advisors: Dr. Chris K.W. Su and Dr. Wen-Chen Huang"
+
+awards:
+  - {when: "2026", what: "Grand Prize Phase of the NAM Healthy Longevity Global Competition (Semi-finalist)", where: "National Academies of Sciences, Engineering, and Medicine"}
+  - {when: "2025", what: "Healthy Longevity Global Competition Catalyst Award", where: "National Academies of Sciences, Engineering, and Medicine"}
+  - {when: "2022", what: "IICM Ph.D. Dissertation Award", where: "Institute of Information & Computing Machinery"}
+  - {when: "2022", what: "IEEE Ph.D. Dissertation Award", where: "IEEE CIS Taipei Chapter"}
+  - {when: "2022", what: "TAAI Ph.D. Dissertation Award", where: "Taiwanese Association for Artificial Intelligence"}
+  - {when: "2019", what: "Best Student Paper Award Runner-Up", where: "Springer ADMA 2019"}
+  - {when: "2019", what: "PAKDD 2019 & MCEA Joint Travel Grant", where: "Macao Convention & Exhibition Association"}
+  - {when: "2017", what: "International Travelling Award", where: "Ministry of Science and Technology, R.O.C."}
+  - {when: "2014–2021", what: "Award of Outstanding Students (six times)", where: "National Yang Ming Chiao Tung University, National Chiao Tung University, and National Kaohsiung First University of Science and Technology"}
+
+talks:
+  invited:
+    - {when: "Sep 2025", what: "Real-World Data to Real-World Evidence: Successes, Challenges, and Opportunities", where: "Sanofi (virtual)"}
+    - {when: "Sep 2024", what: "Health Digital Twin: AI and Machine Learning Meet Real-World Data", where: "Center for Artificial Intelligence, Wake Forest University, Winston-Salem, NC"}
+    - {when: "Apr 2024", what: "Artificial Intelligence for Pharmacoepidemiology Research: An Introduction (pre-conference course)", where: "International Society for Pharmacoepidemiology Mid-Year Meeting, Orlando, FL"}
+  contributed:
+    - {when: "Aug 2026", what: "MedCausalAtlas: Constructing literature-derived causal DAGs for clinical evidence synthesis", where: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea"}
+    - {when: "Jun 2026", what: "Care Coordination and Patient Safety Outcomes", where: "14th IEEE International Conference on Healthcare Informatics, Minneapolis, MN"}
+    - {when: "Jun 2023", what: "Developing a Fair Individualized Polysocial Risk Score (iPsRS) for Identifying Increased Social Risk of Hospitalizations in Patients with Type 2 Diabetes", where: "American Diabetes Association 83rd Scientific Sessions, San Diego, CA"}
+    - {when: "Feb 2023", what: "Care coordination and patient safety outcome: a network study", where: "Celebration of Research 2023, University of Florida, Gainesville, FL"}
+    - {when: "2021", what: "A Continual Learning-Based Image Rating Framework for Infant Precious Moments Capturing (oral)", where: "37th ACM/SIGAPP Symposium on Applied Computing"}
+    - {when: "2019", what: "Long-term Traffic Time Prediction using Deep Learning with Integration of Weather Effect (oral)", where: "23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining, Macau"}
+    - {when: "2017", what: "Efficient Multi-destinations Route Planning with Deadlines and Cost Constraints (oral)", where: "18th IEEE International Conference on Mobile Data Management, Daejeon, South Korea"}
+    - {when: "2016", what: "A Teaching Course of Advanced Machine Learning Analytics Platforms", where: "Industrial Technology Research Institute, Hsinchu, Taiwan"}
+
+service:
+  editorial:
+    - "Editorial Board / Guest Editor, <em>Journal of Informatics</em>"
+    - "Guest Editor, <em>npj Health Systems</em>"
+    - "Guest Editor, <em>BMC Medical Informatics and Decision Making</em>"
+  conference:
+    - {when: "2027", what: "Chair, IEEE Conference on Health Informatics — Analytics Track"}
+    - {when: "2026", what: "Chair, IEEE Conference on Health Informatics — Health Data Challenge"}
+    - {when: "2022–2027", what: "PC Member, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"}
+    - {when: "2022–2027", what: "PC Member, AAAI Conference on Artificial Intelligence (AAAI)"}
+    - {when: "2023–2026", what: "PC Member, ECML PKDD"}
+    - {when: "2024", what: "PC Member, International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"}
+    - {when: "2022", what: "Reviewer, DSAA and DASFAA"}
+  journals:
+    - {group: IEEE, list: "TAI, TCYB, TEVC, TETCI, T-ITS, TKDE, TNNLS, Computational Intelligence Magazine, JBHI, IoT-J"}
+    - {group: ACM, list: "TIST, TKDD, TMIS"}
+    - {group: Other, list: "Applied Intelligence, Information Sciences, Engineering Applications of Artificial Intelligence, World Scientific Annual Review of Artificial Intelligence, Journal of Clinical and Translational Science"}
+  memberships:
+    - American Medical Informatics Association (AMIA)
+    - Institute of Electrical and Electronics Engineers (IEEE)

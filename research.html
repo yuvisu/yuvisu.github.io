@@ -1,0 +1,72 @@
+---
+layout: page
+title: Research
+slug: research
+eyebrow: Research
+intro: I build AI methods that learn from real-world health data, such as electronic health records, medical images, and physiological signals, and that hold up when they are used for real patients.
+redirect_from:
+  - /portfolio/
+  - /portfolio/panoptic/
+  - /portfolio/medcausalatlas/
+  - /projects/
+---
+{%- assign r = site.data.research -%}
+
+<nav class="container toc" aria-label="On this page">
+  {%- for t in r.themes %}<a href="#{{ t.id }}">{{ t.title }}</a>{% endfor %}
+  <a href="#projects">Projects</a>
+  <a href="#funding">Funding</a>
+</nav>
+
+{%- for t in r.themes %}
+<section class="section theme-section" id="{{ t.id }}">
+  <div class="container theme-row">
+    <div class="theme-aside">
+      <span class="theme-icon">{% include icon.html name=t.icon %}</span>
+      <span class="theme-num">0{{ forloop.index }}</span>
+      <h2>{{ t.title }}</h2>
+    </div>
+    <div class="theme-main">
+      <p class="lead-sm">{{ t.detail }}</p>
+      <p class="list-label">Key papers</p>
+      <ul class="pubs">
+        {%- for k in t.papers %}{% assign p = site.data.publications.items | where: "key", k | first %}{% if p %}{% include pub.html p=p %}{% endif %}{% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+{%- endfor %}
+
+<section class="section section-soft" id="projects">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Projects</p>
+      <h2>Featured projects</h2>
+    </div>
+    <div class="projects">
+      {%- for pr in r.projects %}{% include project.html project=pr papers=true %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section" id="funding">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Funding</p>
+      <h2>Current research support</h2>
+      <p class="muted">My work is supported by the National Institutes of Health, including NIA, NIEHS, and NIAID.</p>
+    </div>
+    <ul class="grants">
+      {%- for g in site.data.funding %}
+      <li class="grant">
+        <span class="grant-period">{{ g.period }}</span>
+        <div>
+          <p class="grant-title">{{ g.title }}</p>
+          <p class="muted">{% if g.sponsor %}{{ g.sponsor }}{% if g.award %} {{ g.award }}{% endif %} · {% endif %}{{ g.site }}</p>
+        </div>
+        <span class="tag tag-role">{{ g.role }}</span>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,77 @@
+# Research themes, in the order they appear. `papers` are bib keys from the CV
+# (see _data/publications.json); they are listed under the theme on /research/.
+
+# Selected publications on the home page (bib keys, in display order).
+selected: [huang2024ipsrs, xiao2026hypergraph, huang2026graphad, gou2026ipsrs, huang2022spn]
+
+themes:
+  - id: fairness
+    title: Fair machine learning
+    icon: scale
+    summary: Risk models that stay accurate and equitable across patient groups when they learn from real-world data.
+    detail: >-
+      Models trained on electronic health records inherit the gaps and biases of
+      how care is delivered and recorded. I develop methods that measure and reduce
+      those biases, such as individualized polysocial risk scores that bring social
+      determinants of health into risk prediction without disadvantaging minority
+      patients, and I study how data continuity and missingness affect fairness.
+    papers: [huang2024ipsrs, huang2024fairml, gou2026ipsrs]
+
+  - id: subphenotyping
+    title: Disease subphenotyping and prediction
+    icon: graph
+    summary: Graph and sequence models that find progression subtypes in EHRs and physiological signals and predict outcomes early.
+    detail: >-
+      Patients with the same diagnosis can follow very different courses. I build
+      graph-based and temporal deep learning models that uncover progression
+      subphenotypes in diseases such as Alzheimer's disease and type 2 diabetes, and
+      early-classification methods that make reliable predictions from partial
+      signals such as ECGs.
+    papers: [huang2026graphad, xiao2026hypergraph, huang2022spn, huang2022spnv2]
+
+  - id: digital-twins
+    title: Health digital twins
+    icon: twin
+    summary: Patient-level computational models that forecast how health will change and test what-if treatment scenarios.
+    detail: >-
+      A health digital twin is a computational counterpart of a patient that is
+      updated as new data arrive. I build twins from longitudinal real-world data
+      to forecast outcomes, such as kidney function decline in type 2 diabetes, and
+      to compare care pathways before they are tried on the patient.
+    papers: [chen2025ada399p]
+
+  - id: retinal-imaging
+    title: Retinal imaging
+    icon: eye
+    summary: Foundation models and interpretable learning for OCT and fundus images, including the eye as a window on dementia risk.
+    detail: >-
+      The retina is imaged routinely and reflects vascular and neural health. I
+      work on foundation models that combine volumetric and planar eye imaging,
+      on explanations aligned with retinal anatomy, and on multimodal systems that
+      use routine eye care to assess dementia risk.
+    papers: [chang2026ophmae, chang2026sail, liu2026cerebra]
+
+projects:
+  - title: PanOptic
+    tagline: A multidisciplinary AI board for dementia risk assessment
+    description: >-
+      An AI copilot that distills fragmented multimodal clinical data, including
+      retinal imaging (OCT, OCTA, fundus), structured EHRs in the OMOP CDM, and
+      clinical notes, into a single evidence-backed ADRD risk consensus through
+      multi-agent deliberation.
+    image: /images/projects/panoptic.jpg
+    link: http://54.65.246.49/
+    link_label: Try the demo
+    tags: [Agentic AI, Multimodal data, Dementia risk, Retinal imaging]
+    papers: [liu2026cerebra, huang2026graphad]
+
+  - title: MedCausalAtlas
+    tagline: Causal knowledge synthesis from the biomedical literature
+    description: >-
+      Causal evidence about complex diseases is scattered across hundreds of
+      thousands of papers. MedCausalAtlas uses large language models to extract
+      causal relationships into evidence-traceable DAGs, so researchers can reason
+      about intervention targets, find knowledge gaps, and generate testable
+      hypotheses. Presented at ACM SIGKDD 2026.
+    status: Coming soon
+    tags: [LLMs, Causal graphs, Evidence synthesis]

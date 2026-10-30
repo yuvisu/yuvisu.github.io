@@ -1,0 +1,58 @@
+---
+layout: page
+title: People
+slug: people
+eyebrow: People
+intro: The postdocs and students I work with, and the trainees who came before them.
+---
+{%- assign people = site.data.people -%}
+
+<section class="section-tight">
+  <div class="container">
+    <h2 class="sub">Current trainees</h2>
+    <ul class="people">
+      {%- for m in people.current %}
+      {%- assign parts = m.name | split: " " -%}
+      <li class="person">
+        {%- if m.photo %}
+        <img class="avatar" src="{{ m.photo | relative_url }}" alt="" loading="lazy">
+        {%- else %}
+        <span class="avatar" aria-hidden="true">{{ parts.first | slice: 0 }}{{ parts.last | slice: 0 }}</span>
+        {%- endif %}
+        <div>
+          <p class="person-name">{% if m.link %}<a href="{{ m.link }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}</p>
+          <p class="muted">{{ m.role }}</p>
+          <p class="muted small">{{ m.institution }} · since {{ m.since }}</p>
+        </div>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section join" id="join">
+  <div class="container join-box">
+    <div>
+      <p class="eyebrow">Work with me</p>
+      <h2>Recruiting Ph.D. students and postdocs</h2>
+      <p>If you want to build AI methods for real-world health data, email me your CV and a short note on what you'd like to work on.</p>
+    </div>
+    <div class="join-actions">
+      <a class="btn btn-primary" href="mailto:{{ site.author.email }}?subject=Prospective%20student%20or%20postdoc">{% include icon.html name="mail" %} Get in touch</a>
+    </div>
+  </div>
+</section>
+
+<section class="section-tight">
+  <div class="container">
+    <h2 class="sub">Former trainees</h2>
+    <ul class="rows">
+      {%- for m in people.former %}
+      <li class="row">
+        <span class="row-when">{{ m.years }}</span>
+        <span><strong>{{ m.name }}</strong> <span class="muted">· {{ m.role }}, {{ m.institution }}</span></span>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>

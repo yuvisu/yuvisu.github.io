@@ -1,0 +1,24 @@
+{%- comment -%}
+  One publication. include.p is an item from _data/publications.json.
+{%- endcomment -%}
+{%- assign p = include.p -%}
+<li class="pub" data-type="{{ p.type }}" data-year="{{ p.year }}"{% if p.first_or_senior %} data-lead{% endif %}>
+  <p class="pub-title">
+    {%- if p.url -%}<a href="{{ p.url }}">{{ p.title }}</a>{%- else -%}{{ p.title }}{%- endif -%}
+  </p>
+  <p class="pub-authors">
+    {%- for a in p.authors -%}
+      {%- if a.gap -%}<span class="gap" title="{{ p.n_authors }} authors in total">…</span>
+      {%- elsif a.me -%}<strong>{{ a.name }}{% if a.star %}*{% endif %}</strong>
+      {%- else -%}{{ a.name }}{% if a.star %}*{% endif %}{%- endif -%}
+      {%- unless forloop.last %}, {% endunless -%}
+    {%- endfor -%}
+  </p>
+  <p class="pub-venue">
+    <em>{{ p.venue }}</em>{% if p.details != "" %}, {{ p.details }}{% endif %}, {{ p.year }}
+    {%- unless include.compact %}
+    <span class="tag tag-{{ p.type }}">{% case p.type %}{% when "journal" %}Journal{% when "conference" %}Conference{% when "abstract" %}Abstract{% else %}Preprint{% endcase %}</span>
+    {%- endunless %}
+    {%- if p.note != "" %}<span class="tag tag-note">{{ p.note }}</span>{% endif %}
+  </p>
+</li>

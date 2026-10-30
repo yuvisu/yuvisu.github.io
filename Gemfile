@@ -1,11 +1,11 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
+# The same gems GitHub Pages uses to build the site.
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
-gem 'github-pages'
+# Only needed to run `bundle exec jekyll serve` locally on Ruby 3+.
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"

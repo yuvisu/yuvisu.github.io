@@ -1,0 +1,60 @@
+---
+layout: page
+title: Publications
+slug: publications
+eyebrow: Publications
+redirect_from:
+  - /publication/2021-jr-research-adar
+  - /publication/2021-jr-research-sprnn
+  - /publication/2022-jr-research-ckna
+  - /publication/2022-jr-research-spn
+  - /publication/2022-jr-research-spnv2
+  - /publication/2024-cf-adgnn
+  - /publication/2024-cf-nnsub
+  - /publication/2024-jr-research-psrs
+  - /publication/2024-jr-review-digitaltwin
+  - /publication/2024-jr-review-fairml
+  - /publication/2025-jr-research-cerebra
+  - /publication/2025-jr-research-lcscreen
+  - /publication/2025-jr-research-lumen
+  - /publication/2026-cf-research-tdhnode
+  - /publication/2026-jr-research-adsubphenotype
+---
+{%- assign pubs = site.data.publications -%}
+{%- assign groups = pubs.items | group_by: "year" -%}
+
+<div class="container">
+  <p class="lead">
+    {{ pubs.counts.total }} publications: {{ pubs.counts.journal }} journal articles, {{ pubs.counts.conference }} conference papers,
+    {{ pubs.counts.abstract }} abstracts, and {{ pubs.counts.preprint }} preprints.
+    See also <a href="{{ site.links[0].url }}">Google Scholar</a>.
+  </p>
+
+  <div class="pub-controls" id="pub-controls">
+    <div class="chips-filter" role="group" aria-label="Filter by type">
+      <button type="button" class="chip-btn" data-filter="all" aria-pressed="true">All <span>{{ pubs.counts.total }}</span></button>
+      <button type="button" class="chip-btn" data-filter="journal" aria-pressed="false">Journal <span>{{ pubs.counts.journal }}</span></button>
+      <button type="button" class="chip-btn" data-filter="conference" aria-pressed="false">Conference <span>{{ pubs.counts.conference }}</span></button>
+      <button type="button" class="chip-btn" data-filter="abstract" aria-pressed="false">Abstracts <span>{{ pubs.counts.abstract }}</span></button>
+      <button type="button" class="chip-btn" data-filter="preprint" aria-pressed="false">Preprints <span>{{ pubs.counts.preprint }}</span></button>
+    </div>
+    <div class="pub-controls-row">
+      <label class="search">
+        {% include icon.html name="search" %}
+        <input type="search" id="pub-search" placeholder="Search titles, authors, venues" aria-label="Search publications">
+      </label>
+      <label class="check"><input type="checkbox" id="pub-lead"> First or senior author</label>
+    </div>
+    <p class="muted small"><strong>Bold</strong>: Yu Huang. &nbsp;*: co-first or corresponding author. &nbsp;<span id="pub-count" aria-live="polite"></span></p>
+  </div>
+
+  {%- for g in groups %}
+  <section class="year-group" data-year="{{ g.name }}">
+    <h2 class="year">{{ g.name }}</h2>
+    <ol class="pubs">
+      {%- for p in g.items %}{% include pub.html p=p %}{% endfor %}
+    </ol>
+  </section>
+  {%- endfor %}
+  <p class="empty muted" id="pub-empty" hidden>No publications match. Try a different search.</p>
+</div>

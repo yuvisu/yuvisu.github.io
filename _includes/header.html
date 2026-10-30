@@ -1,0 +1,19 @@
+<header class="site-header">
+  <div class="container header-row">
+    <a class="wordmark" href="{{ '/' | relative_url }}"><span class="mark" aria-hidden="true"></span>{{ site.author.name }}</a>
+    <nav class="nav" id="site-nav" aria-label="Main">
+      {%- for item in site.nav %}
+      <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {%- endfor %}
+    </nav>
+    <div class="header-tools">
+      <button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch between light and dark mode">
+        <span class="when-light">{% include icon.html name="moon" %}</span>
+        <span class="when-dark">{% include icon.html name="sun" %}</span>
+      </button>
+      <button class="icon-btn menu-btn" id="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+        {% include icon.html name="menu" %}
+      </button>
+    </div>
+  </div>
+</header>

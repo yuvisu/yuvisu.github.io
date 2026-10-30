@@ -1,0 +1,135 @@
+---
+layout: default
+title: Home
+slug: home
+redirect_from:
+  - /about/
+  - /about.html
+---
+{%- assign pubs = site.data.publications -%}
+{%- assign r = site.data.research -%}
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-text">
+      <a class="pill" href="#join"><span class="dot" aria-hidden="true"></span>Recruiting Ph.D. students and postdocs {% include icon.html name="arrow" %}</a>
+      <h1>{{ site.author.name }}</h1>
+      <p class="hero-role">{{ site.author.title }} · {{ site.author.department }}<br>{{ site.author.institution }}</p>
+      <p class="hero-mission">{{ site.tagline }}.</p>
+      <p class="hero-bio">
+        I'm a tenure-track Assistant Professor in the
+        <a href="https://medicine.iu.edu/biostatistics">Department of Biostatistics and Health Data Science</a>
+        at Indiana University School of Medicine, an Investigator at the
+        <a href="https://www.regenstrief.org/person/yu-huang/">Regenstrief Institute's Clem McDonald Center for Biomedical Informatics</a>,
+        and an Adjunct Professor in Purdue University's
+        <a href="https://engineering.purdue.edu/BME">Weldon School of Biomedical Engineering</a>.
+        I develop machine learning methods for electronic health records, medical images, and other real-world data:
+        to model how diseases progress, to find patient subgroups, and to make sure the resulting models work fairly for everyone.
+      </p>
+      <p class="hero-bio small">
+        Before IU, I was a postdoctoral associate with <a href="https://jiangbian.me/">Jiang Bian</a> at the University of Florida.
+        I received my Ph.D. in Computer Science from National Yang Ming Chiao Tung University in 2022, co-advised by
+        <a href="https://people.cs.nctu.edu.tw/~vtseng/">Vincent S. Tseng</a> and <a href="https://isc.okstate.edu/">Gary G. Yen</a>.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="{{ '/research/' | relative_url }}">Explore my research {% include icon.html name="arrow" %}</a>
+        <a class="btn" href="mailto:{{ site.author.email }}">{% include icon.html name="mail" %} Email me</a>
+      </div>
+      <div class="social">
+        {%- for l in site.links %}
+        <a href="{{ l.url }}" aria-label="{{ l.label }}" title="{{ l.label }}">{% include icon.html name=l.icon %}</a>
+        {%- endfor %}
+      </div>
+    </div>
+    <figure class="hero-photo">
+      <img src="{{ site.author.photo | relative_url }}" alt="Portrait of {{ site.author.name }}" width="720" height="900">
+    </figure>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Research</p>
+      <h2>What I work on</h2>
+    </div>
+    <div class="themes">
+      {%- for t in r.themes %}
+      <a class="theme" href="{{ '/research/' | relative_url }}#{{ t.id }}">
+        <span class="theme-icon">{% include icon.html name=t.icon %}</span>
+        <span class="theme-num">0{{ forloop.index }}</span>
+        <h3>{{ t.title }}</h3>
+        <p>{{ t.summary }}</p>
+        <span class="text-link">Read more {% include icon.html name="arrow" %}</span>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-soft">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Projects</p>
+      <h2>Featured projects</h2>
+    </div>
+    <div class="projects">
+      {%- for pr in r.projects %}{% include project.html project=pr %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split">
+    <div>
+      <div class="section-head">
+        <p class="eyebrow">News</p>
+        <h2>Recent updates</h2>
+      </div>
+      <ul class="news">
+        {%- for n in site.data.news limit: 6 %}
+        <li><span class="news-date">{{ n.date }}</span><span class="news-text">{{ n.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+        {%- endfor %}
+      </ul>
+      {%- if site.data.news.size > 6 %}
+      <details class="more">
+        <summary>Earlier news</summary>
+        <ul class="news">
+          {%- for n in site.data.news offset: 6 %}
+          <li><span class="news-date">{{ n.date }}</span><span class="news-text">{{ n.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+          {%- endfor %}
+        </ul>
+      </details>
+      {%- endif %}
+    </div>
+    <div>
+      <div class="section-head">
+        <p class="eyebrow">Publications</p>
+        <h2>Selected papers</h2>
+      </div>
+      <ul class="pubs">
+        {%- for k in r.selected %}{% assign p = pubs.items | where: "key", k | first %}{% if p %}{% include pub.html p=p compact=true %}{% endif %}{% endfor %}
+      </ul>
+      <a class="text-link" href="{{ '/publications/' | relative_url }}">All {{ pubs.counts.total }} publications {% include icon.html name="arrow" %}</a>
+    </div>
+  </div>
+</section>
+
+<section class="section join" id="join">
+  <div class="container join-box">
+    <div>
+      <p class="eyebrow">Work with me</p>
+      <h2>Recruiting Ph.D. students and postdocs</h2>
+      <p>
+        I'm looking for people who want to build AI methods for real-world health data, including EHRs,
+        medical imaging, and multimodal data, with a focus on fairness, disease progression, and digital twins.
+        Email me your CV and a short note on what you'd like to work on.
+      </p>
+    </div>
+    <div class="join-actions">
+      <a class="btn btn-primary" href="mailto:{{ site.author.email }}?subject=Prospective%20student%20or%20postdoc">{% include icon.html name="mail" %} Get in touch</a>
+      <a class="btn" href="{{ '/people/' | relative_url }}">{% include icon.html name="users" %} Meet the team</a>
+    </div>
+  </div>
+</section>

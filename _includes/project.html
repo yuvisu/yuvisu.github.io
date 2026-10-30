@@ -1,0 +1,34 @@
+{%- assign pr = include.project -%}
+<article class="project">
+  <div class="project-media{% unless pr.image %} project-media-art{% endunless %}">
+    {%- if pr.image %}
+    <img src="{{ pr.image | relative_url }}" alt="Screenshot of {{ pr.title }}" loading="lazy">
+    {%- else %}
+    <svg viewBox="0 0 320 200" aria-hidden="true" class="dag">
+      <path d="M60 50 150 40M60 50 120 120M150 40 250 70M150 40 200 140M120 120 200 140M250 70 200 140M120 120 90 175M200 140 270 170"/>
+      <circle cx="60" cy="50" r="9"/><circle cx="150" cy="40" r="12"/><circle cx="250" cy="70" r="9"/>
+      <circle cx="120" cy="120" r="10"/><circle cx="200" cy="140" r="14" class="hub"/><circle cx="90" cy="175" r="6"/><circle cx="270" cy="170" r="7"/>
+    </svg>
+    {%- endif %}
+  </div>
+  <div class="project-body">
+    <div class="project-head">
+      <h3>{{ pr.title }}</h3>
+      {% if pr.status %}<span class="tag tag-note">{{ pr.status }}</span>{% endif %}
+    </div>
+    <p class="project-tagline">{{ pr.tagline }}</p>
+    <p>{{ pr.description }}</p>
+    <ul class="chips">{% for t in pr.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+    {%- if include.papers and pr.papers %}
+    <p class="project-papers-label">Related papers</p>
+    <ul class="mini-pubs">
+      {%- for k in pr.papers %}{% assign p = site.data.publications.items | where: "key", k | first %}{% if p %}
+      <li>{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %} <span class="muted">· <em>{{ p.venue }}</em>, {{ p.year }}</span></li>
+      {%- endif %}{% endfor %}
+    </ul>
+    {%- endif %}
+    {%- if pr.link %}
+    <a class="text-link" href="{{ pr.link }}">{{ pr.link_label | default: "Visit project" }} {% include icon.html name="arrow" %}</a>
+    {%- endif %}
+  </div>
+</article>

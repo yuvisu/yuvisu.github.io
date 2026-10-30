@@ -1,0 +1,41 @@
+# Trainees, from the CV (sections/mentoring.tex). Newest first.
+# Optional fields: photo (path under /images/people/), link (personal page).
+
+current:
+  - name: Zhaohui Wang
+    role: Postdoctoral Associate
+    institution: Indiana University
+    since: 2026
+  - name: Hao Xuan
+    role: Postdoctoral Associate
+    institution: Indiana University
+    since: 2026
+  - name: Haoran Ding
+    role: Postdoctoral Associate
+    institution: Indiana University
+    since: 2026
+  - name: Tien-Yu Chang
+    role: Ph.D. Student
+    institution: Indiana University
+    since: 2024
+  - name: Shifa Bhutta
+    role: Master's Student
+    institution: Purdue University
+    since: 2025
+
+former:
+  - {name: Ibrahim Bhutta, role: Undergraduate Student, institution: Purdue University, years: "2025"}
+  - {name: Wen-Huei Lo, role: Master's Student, institution: National Yang Ming Chiao Tung University, years: "2020–2022"}
+  - {name: Ting-En Chao, role: Master's Student, institution: National Yang Ming Chiao Tung University, years: "2020–2022"}
+  - {name: Meng-Chen Lin, role: Master's Student, institution: National Yang Ming Chiao Tung University, years: "2020–2022"}
+  - {name: Dinh Nguyen Dan Chau, role: Undergraduate Student, institution: National Yang Ming Chiao Tung University, years: "2020–2021"}
+  - {name: Sandy Wu, role: Undergraduate Student, institution: National Yang Ming Chiao Tung University, years: "2020–2021"}
+  - {name: Ju-Hui Tseng, role: Master's Student, institution: National Yang Ming Chiao Tung University, years: "2019–2021"}
+  - {name: Wei Cheng Wang, role: Master's Student, institution: National Yang Ming Chiao Tung University, years: "2019–2021"}
+  - {name: Yu Ming Chen, role: Undergraduate Student, institution: National Chiao Tung University, years: "2019–2020"}
+  - {name: William Chen, role: Undergraduate Student, institution: National Chiao Tung University, years: "2019–2020"}
+  - {name: Shao-Yu Yin, role: Master's Student, institution: National Chiao Tung University, years: "2018–2020"}
+  - {name: Yan Cen Lin, role: Undergraduate Student, institution: National Chiao Tung University, years: "2018–2019"}
+  - {name: Wei Cheng Wang, role: Undergraduate Student, institution: National Chiao Tung University, years: "2018–2019"}
+  - {name: Meng-Chieh Lee, role: Master's Student, institution: National Chiao Tung University, years: "2017–2020"}
+  - {name: Chih Hsin Chou, role: Master's Student, institution: National Chiao Tung University, years: "2016–2018"}
