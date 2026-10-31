@@ -50,28 +50,3 @@ themes:
       on explanations aligned with retinal anatomy, and on multimodal systems that
       use routine eye care to assess dementia risk.
     papers: [chang2026ophmae, chang2026sail, liu2026cerebra]
-
-projects:
-  - title: PanOptic
-    tagline: A multidisciplinary AI board for dementia risk assessment
-    description: >-
-      An AI copilot that distills fragmented multimodal clinical data, including
-      retinal imaging (OCT, OCTA, fundus), structured EHRs in the OMOP CDM, and
-      clinical notes, into a single evidence-backed ADRD risk consensus through
-      multi-agent deliberation.
-    image: /images/projects/panoptic.jpg
-    link: http://54.65.246.49/
-    link_label: Try the demo
-    tags: [Agentic AI, Multimodal data, Dementia risk, Retinal imaging]
-    papers: [liu2026cerebra, huang2026graphad]
-
-  - title: MedCausalAtlas
-    tagline: Causal knowledge synthesis from the biomedical literature
-    description: >-
-      Causal evidence about complex diseases is scattered across hundreds of
-      thousands of papers. MedCausalAtlas uses large language models to extract
-      causal relationships into evidence-traceable DAGs, so researchers can reason
-      about intervention targets, find knowledge gaps, and generate testable
-      hypotheses. Presented at ACM SIGKDD 2026.
-    status: Coming soon
-    tags: [LLMs, Causal graphs, Evidence synthesis]
