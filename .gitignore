@@ -14,3 +14,7 @@ Gemfile.lock
 
 # Local editor/agent settings
 .claude/
+
+# Local task tracking
+TASKS.md
+task-chats/

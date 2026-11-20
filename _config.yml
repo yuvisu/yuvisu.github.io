@@ -64,3 +64,5 @@ exclude:
   - .sass-cache
   - .claude
   - .github
+  - TASKS.md
+  - task-chats
