@@ -1,82 +1,12 @@
 {
  "counts": {
-  "journal": 38,
+  "journal": 37,
   "conference": 19,
   "abstract": 11,
   "preprint": 6,
-  "total": 74
+  "total": 73
  },
  "items": [
-  {
-   "key": "liu2026cerebra",
-   "type": "journal",
-   "year": 2026,
-   "title": "CEREBRA: A Multidisciplinary Agentic AI Board for Multimodal Dementia Characterization and Risk Assessment",
-   "authors": [
-    {
-     "name": "Sheng Liu",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Long Chen",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Zeyun Zhao",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Qinglin Gou",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Qingyue Wei",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Arjun Masurkar",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Kevin M. Spiegler",
-     "me": false,
-     "star": false
-    },
-    {
-     "name": "Philip Kuball",
-     "me": false,
-     "star": false
-    },
-    {
-     "gap": true
-    },
-    {
-     "name": "Yu Huang",
-     "me": true,
-     "star": false
-    },
-    {
-     "gap": true
-    },
-    {
-     "name": "James Zou",
-     "me": false,
-     "star": false
-    }
-   ],
-   "n_authors": 19,
-   "first_or_senior": false,
-   "venue": "Nature Biomedical Engineering",
-   "details": "",
-   "note": "Accepted. Preprint: arXiv:2603.21597",
-   "url": "https://arxiv.org/abs/2603.21597"
-  },
   {
    "key": "wu2026repurpose",
    "type": "journal",

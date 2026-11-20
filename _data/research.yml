@@ -49,4 +49,4 @@ themes:
       work on foundation models that combine volumetric and planar eye imaging,
       on explanations aligned with retinal anatomy, and on multimodal systems that
       use routine eye care to assess dementia risk.
-    papers: [chang2026ophmae, chang2026sail, liu2026cerebra]
+    papers: [chang2026ophmae, chang2026sail]

@@ -1,9 +1,6 @@
 # Newest first. The home page shows the first 6; the rest sit under "Earlier news".
 # text is Markdown, so [links](https://...) and *italics* work.
 
-- date: Nov 2026
-  text: "[CEREBRA: A Multidisciplinary Agentic AI Board for Multimodal Dementia Characterization and Risk Assessment](https://arxiv.org/abs/2603.21597) was accepted for publication in *Nature Biomedical Engineering*."
-
 - date: Sep 2026
   text: Joined the NIH-funded AI-Powered Coordinating Center (AICC) for the NIA AITC Program on Aging and AD/ADRD Research as senior/key personnel.
 
